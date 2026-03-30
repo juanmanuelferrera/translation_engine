@@ -49,14 +49,18 @@ Usar `CAPÍTULO` + número escrito en letras:
 | "This is confirmed in..." | "Esto se confirma en..." |
 | "As stated in..." | "Como se afirma en..." |
 | "Now..." (transición narrativa) | "Ahora bien,..." (NO solo "Ahora") |
+| "Then" (consecuencia) | "Entonces" |
+| "Then" (temporal) | "Después", "Luego" |
 | Preguntas retóricas | Mantener como preguntas |
 | Repeticiones enfáticas | NO eliminar — son intencionales |
+| Contraste enfático (espiritual vs. material) | Mantener la oposición |
 
 ### Registro Lingüístico
 - **Formal-didáctico** — Como un maestro enseñando a estudiantes
 - **Usar "uno" o construcciones impersonales** — No tutear al lector
 - **Vocabulario culto pero accesible** — Evitar tecnicismos innecesarios
 - **Evitar coloquialismos** — Nada de "tío", "mola", "currar"
+- **Evitar latinoamericanismos** — Usar léxico peninsular
 - **Preferir vocabulario culto sobre perífrasis, pero SIN caer en arcaísmos innecesarios**. El registro debe ser culto y accesible, no rebuscado:
 
 | ✗ Perífrasis/coloquial | ✓ Vocabulario culto | ✗ Arcaísmo innecesario |
@@ -86,7 +90,7 @@ Mantener en sánscrito original CON diacríticos:
 
 **Nombres**: Kṛṣṇa, Arjuna, Brahmā, Śiva, Nārada, Vyāsa, Prahlāda, etc.
 
-**Términos técnicos**:
+**Términos técnicos con género y artículo asignados**:
 | Término | Artículo | Género |
 |---------|----------|--------|
 | Bhagavān | el Bhagavān | masc. |
@@ -118,9 +122,86 @@ Mantener en sánscrito original CON diacríticos:
 
 **Nota**: Usar *cursivas* para términos sánscritos como *brāhmaṇa*, *kṣatriya*, etc., cuando se usan como descriptores dentro del texto del significado.
 
-### Glosario de Traducción Consistente
+### Honoríficos y Títulos
+| Inglés | Español | Notas |
+|--------|---------|-------|
+| His Divine Grace | Su Divina Gracia | Mantener mayúsculas |
+| Śrīla | Śrīla | NO traducir |
+| Prabhupāda | Prabhupāda | NO traducir |
+| Gosvāmī | Gosvāmī | NO traducir |
+| Mahārāja | Mahārāja | NO traducir |
+| Ṭhākura | Ṭhākura | NO traducir |
+| His Lordship | Su Señoría | Para Kṛṣṇa/Viṣṇu |
+| the Lord | el Señor | Con mayúscula |
 
-#### Términos Teológicos Principales
+### Desambiguación de "Lord"
+| Contexto | Español |
+|----------|---------|
+| Lord Kṛṣṇa | el Señor Kṛṣṇa |
+| Lord Caitanya | el Señor Caitanya |
+| the Lord (Kṛṣṇa) | el Señor |
+| Lord Brahmā | el Señor Brahmā |
+| Lord Śiva | el Señor Śiva |
+| my Lord (vocativo) | mi Señor |
+| O Lord | ¡oh, Señor! |
+| the lord of the house | el señor de la casa (minúscula) |
+
+### Plurales de Términos Sánscritos
+Añadir **-s** al término sánscrito:
+
+| Singular | Plural |
+|----------|--------|
+| el guru | los gurus |
+| la gopī | las gopīs |
+| el mantra | los mantras |
+| el avatāra | los avatāras |
+| el brāhmaṇa | los brāhmaṇas |
+| el ācārya | los ācāryas |
+| la jīva | las jīvas |
+
+**NO usar**: *gurúes, gurús* (hispanizaciones incorrectas)
+
+### Adjetivos Derivados del Sánscrito
+Van en **minúscula** y **concuerdan en género**:
+
+| Inglés | Español |
+|--------|---------|
+| Vedic knowledge | conocimiento védico |
+| Vedic literature | literatura védica |
+| Vaishnava philosophy | filosofía vaiṣṇava |
+| Vaishnava etiquette | etiqueta vaiṣṇava |
+| Kṛṣṇa conscious | consciente de Kṛṣṇa |
+| God conscious | consciente de Dios |
+
+**Excepción de capitalización**: "Védica/Védico" siempre con mayúscula: "sabiduría Védica", "literatura Védica"
+
+### Normalización de Transliteración
+**Normalizar SIEMPRE** a la forma con diacríticos, incluso si el original es inconsistente:
+
+| Original (variable) | Traducción (normalizado) |
+|---------------------|--------------------------|
+| Krishna, Krsna | Kṛṣṇa |
+| Caitanya, Chaitanya | Caitanya |
+| Visnu, Vishnu | Viṣṇu |
+| Siva, Shiva | Śiva |
+| Vrindavan, Vrndavana | Vṛndāvana |
+
+### Términos Sánscritos con Sentido Coloquial Distinto en Español
+Preservar siempre el contexto filosófico — NO usar el sentido coloquial:
+
+| Término | Uso coloquial español | Uso correcto (Prabhupada) |
+|---------|----------------------|---------------------------|
+| avatar | personaje de videojuego | encarnación divina (el avatāra) |
+| karma | "mala suerte" | ley de acción y reacción (el karma) |
+| mantra | "frase repetitiva" | vibración sonora trascendental |
+| nirvana | "paz, relax" | cesación (concepto budista) |
+| gurú | "experto en algo" | maestro espiritual |
+
+---
+
+## GLOSARIO DE TRADUCCIÓN CONSISTENTE
+
+### Términos Teológicos Principales
 | English | Español |
 |---------|---------|
 | Supreme Personality of Godhead | Suprema Personalidad de Dios |
@@ -168,7 +249,7 @@ Mantener en sánscrito original CON diacríticos:
 | impersonal Brahman | Brahman impersonal |
 | localized Paramātmā | Paramātmā localizado |
 
-#### Términos Militares y Narrativos
+### Términos Militares y Narrativos
 | English | Español |
 |---------|---------|
 | chariot | cuadriga |
@@ -184,6 +265,87 @@ Mantener en sánscrito original CON diacríticos:
 | quarrel | disputa / riña / querella |
 | leniency | indulgencia / benevolencia |
 | Vedic wisdom | sabiduría Védica |
+
+### Expresiones Fuertes de Prabhupada — NO Suavizar
+| Inglés | Español | ✗ NO usar |
+|--------|---------|-----------|
+| rascal | bribón, sinvergüenza | "persona equivocada" |
+| foolish | necio, tonto | "poco informado" |
+| nonsense | disparate, necedad | "incorrecto" |
+| bogus | espurio, falso | "alternativo" |
+| so-called | supuesto, llamado | — |
+| cheater | embaucador, estafador | "persona confundida" |
+| demon | demonio | "persona negativa" |
+| atheist | ateo | "no creyente" |
+| materialist | materialista | — |
+| impersonalist | impersonalista | — |
+| mental speculator | especulador mental | — |
+| puffed up | engreído, inflado | — |
+| cent percent | cien por cien | — |
+
+### Expresiones Idiomáticas de Prabhupada
+| Expresión | Significado | Traducción |
+|-----------|-------------|------------|
+| "simply" (enfático) | simplemente, solo | simplemente |
+| "very nicely" | muy bien | muy bien |
+| "on the bodily concept" | en el concepto corporal | en el concepto corporal |
+
+### Verbos Característicos
+| Inglés | Español |
+|--------|---------|
+| to render service | prestar servicio |
+| to take shelter | refugiarse / tomar refugio |
+| to execute | ejecutar / llevar a cabo |
+| to engage in | ocuparse en / dedicarse a |
+| to attain | alcanzar / lograr |
+| to become situated | situarse |
+| to be elevated | ser elevado / elevarse |
+| to surrender | rendirse |
+| to worship | adorar |
+| to purify | purificar |
+
+### Palabras con Uso Específico en Prabhupada
+| Inglés | Contexto Prabhupada | Español |
+|--------|---------------------|---------|
+| potency | energía divina | potencia |
+| energy | śakti | energía |
+| quality | guṇa | cualidad / modalidad |
+| mode | guṇa | modalidad |
+| form | rūpa | forma |
+| feature | aspecto | aspecto / rasgo |
+| opulence | aiśvarya | opulencia |
+| pastime | līlā | pasatiempo |
+| associate | compañero eterno | asociado |
+
+### Palabras Polisémicas — Elegir Según Contexto Filosófico
+| Palabra | Significado habitual | En Prabhupada |
+|---------|---------------------|---------------|
+| service | servicio (secular) | servicio devocional / servicio |
+| consciousness | consciencia (moral) | conciencia (awareness) |
+| realization | realización (logro) | comprensión (understanding) — según contexto |
+| attachment | adjunto (físico) | apego (espiritual) |
+| engagement | compromiso (promesa) | ocupación (actividad) |
+| liberation | liberación (física) | liberación (mokṣa) |
+
+### Expresiones de Énfasis
+| Inglés | Español |
+|--------|---------|
+| "certainly" | "ciertamente" |
+| "undoubtedly" | "indudablemente" |
+| "without doubt" | "sin duda" |
+| "there is no question of" | "no hay lugar para" |
+| "it is a fact" | "es un hecho" |
+| "this is the verdict" | "este es el veredicto" |
+| "this is the conclusion" | "esta es la conclusión" |
+
+### Construcciones Comparativas
+| Inglés | Español |
+|--------|---------|
+| "just like" | "tal como", "así como" |
+| "for example" | "por ejemplo" |
+| "similarly" | "de manera similar" |
+| "in the same way" | "del mismo modo" |
+| "as... so..." | "así como... así también..." |
 
 ---
 
@@ -205,6 +367,8 @@ Cuando la pasiva sea necesaria, preferir **pasiva refleja** sobre pasiva perifr�
 | "is understood" | "es entendido" | "se entiende" |
 | "is recommended" | "es recomendado" | "se recomienda" |
 | "is accepted" | "es aceptado" | "se acepta" |
+| "is performed" | "es realizado" | "se realiza" |
+| "was given" | "fue dado" | "se dio" / "le fue dado" |
 
 **Excepción**: Mantener pasiva perifrástica cuando hay agente expreso:
 > "was given by Kṛṣṇa" → "fue dado por Kṛṣṇa"
@@ -220,7 +384,26 @@ Usar subjuntivo **siempre** en cláusulas finales, de propósito y de posibilida
 | "so that he might be alert" | "para que pudiera estar alerta" |
 | "he should not be lenient" | "no fuera indulgente" |
 
-### 3. Pronombres Referidos a Dios
+### 3. Tiempos Verbales — Guía Sistemática
+| Contexto | Inglés | Español |
+|----------|--------|---------|
+| Verdad universal | "The Lord says..." | "El Señor dice..." (presente) |
+| Cita de escritura | "It is stated..." | "Se afirma..." (presente) |
+| Narrativa pasada | "Arjuna said..." | "Arjuna dijo..." (pretérito) |
+| Condicional | "If one surrenders..." | "Si uno se rinde..." (presente) |
+| Subjuntivo | "that he may attain..." | "para que pueda alcanzar..." (subjuntivo) |
+| Imperativo suave | "One should understand..." | "Uno debe comprender..." (debe + infinitivo) |
+
+### 4. Tiempos Verbales Narrativos
+En los significados (purports), usar **pretérito/imperfecto** para contextos narrativos del pasado, no presente:
+
+| ✗ Evitar | ✓ Usar |
+|----------|--------|
+| "pertenecen a la misma familia" (narración) | "pertenecían a la misma familia" |
+| "duda mucho de la posibilidad" | "albergaba serias dudas acerca de la posibilidad" |
+| "Sañjaya pudo comprender" | "Sañjaya comprendió" |
+
+### 5. Pronombres Referidos a Dios
 Usar **mayúsculas** para pronombres que se refieren a Kṛṣṇa/Dios:
 
 | Inglés | Español |
@@ -229,16 +412,40 @@ Usar **mayúsculas** para pronombres que se refieren a Kṛṣṇa/Dios:
 | His | Su |
 | Himself | Él mismo |
 
-### 4. Tratamiento de "You"
+Minúsculas para pronombres referidos a otros: "él", "su", "le"
+
+### 6. Tratamiento de "You"
 - **Contexto general/didáctico**: "uno" o impersonal
 - **Kṛṣṇa hablando a Arjuna**: "tú" (relación íntima)
+- **Citas de escritura con "you"**: Evaluar contexto
 
-### 5. Oraciones Largas
+Opciones en orden de preferencia para "one":
+1. **"Uno"**: "Uno tiene que aprender"
+2. **"Se" impersonal**: "Se tiene que aprender"
+3. **"El devoto / La persona"**: Cuando hay contexto específico
+
+**EVITAR:** "Tú tienes que aprender" (demasiado coloquial)
+
+### 7. El "We" Editorial
+| Contexto | Inglés | Español |
+|----------|--------|---------|
+| Editorial (autor) | "We have explained..." | "Hemos explicado..." |
+| Inclusivo (lector + autor) | "We should understand..." | "Debemos comprender..." |
+| Los devotos | "We Vaiṣṇavas..." | "Nosotros los vaiṣṇavas..." |
+| Prabhupada + discípulos | "We are preaching..." | "Estamos predicando..." |
+
+### 8. Oraciones Largas
 - **NO fragmentar** — Preservar la estructura compleja
 - **Usar puntuación clarificadora**: punto y coma, guiones largos
 - **Verificar que el sujeto queda claro**
 
-### 6. Orden Natural del Español
+Ejemplo problemático:
+> "One who, understanding that his position is to serve, transfers himself to the service of the Lord, and thus becomes eligible for Vaikuṇṭhaloka, where there is no material misery, and where the living entity can live eternally, is considered the most intelligent."
+
+Solución (guiones largos para subordinada extensa):
+> "Aquel que, comprendiendo que su posición es servir, se transfiere al servicio del Señor —y así se vuelve elegible para Vaikuṇṭhaloka, donde no hay miseria material y donde la entidad viviente puede vivir eternamente— es considerado el más inteligente."
+
+### 9. Orden Natural del Español
 NO calcar el orden de palabras del inglés. Reestructurar para que suene natural en español:
 
 | Inglés (orden original) | ✗ Calco | ✓ Español natural |
@@ -248,17 +455,14 @@ NO calcar el orden de palabras del inglés. Reestructurar para que suene natural
 | "went to his teacher" | "fue donde su maestro" | "se dirigió a su maestro" |
 | "as a result of this quarrel" | "como resultado de esta disputa" | "a raíz de esta riña" |
 
-### 7. Tiempos Verbales Narrativos
-En los significados (purports), usar **pretérito/imperfecto** para contextos narrativos del pasado, no presente:
+### 10. Plural Genérico
+El inglés usa plural para generalizaciones. Mantener el plural con artículo apropiado:
+- "devotees" → "los devotos" (con artículo definido para generalización)
+- "a devotee" → "un devoto" (individuo genérico)
+- "the devotee" → "el devoto" (arquetipo)
 
-| ✗ Evitar | ✓ Usar |
-|----------|--------|
-| "pertenecen a la misma familia" (narración) | "pertenecían a la misma familia" |
-| "duda mucho de la posibilidad" | "albergaba serias dudas acerca de la posibilidad" |
-| "Sañjaya pudo comprender" | "Sañjaya comprendió" |
-
-### 8. Variación Léxica
-Evitar repetir la misma palabra cuando hay sinónimos cultos disponibles. Alternar para enriquecer el texto:
+### 11. Variación Léxica
+Evitar repetir la misma palabra cuando hay sinónimos cultos disponibles:
 
 | Repetitivo | Variado |
 |-----------|---------|
@@ -269,13 +473,21 @@ Evitar repetir la misma palabra cuando hay sinónimos cultos disponibles. Altern
 | ir | ir, acudir, dirigirse |
 | señalar, señalar | señalar, indicar, apuntar |
 
-### 9. Conectores — Rotación ESTRICTA
+### 12. Conectores — Rotación ESTRICTA
 **REGLA CRÍTICA**: NO usar el mismo conector más de 2 veces en un mismo significado (purport). Contar mentalmente y alternar. "Por lo tanto" tiende a sobreutilizarse — limitarlo activamente:
 
 | Inglés | Variantes en español (OBLIGATORIO alternar) |
 |--------|-------------------------------|
 | Therefore | Por lo tanto / Por consiguiente / Así pues / De este modo / En consecuencia / De ahí que / Por ende |
 | However | Sin embargo / No obstante / Aun así / Con todo |
+| Thus | Así pues / De este modo |
+| Hence | De ahí que / Por eso |
+| Moreover | Además / Es más |
+| Furthermore | Asimismo |
+| Nevertheless | No obstante |
+| Consequently | En consecuencia |
+| In this way | De esta manera |
+| On the other hand | Por otra parte |
 | In other words | En otras palabras / Es decir / Dicho de otro modo |
 | Similarly | De forma similar / Del mismo modo / Igualmente |
 | Actually | En realidad / De hecho |
@@ -284,7 +496,7 @@ Evitar repetir la misma palabra cuando hay sinónimos cultos disponibles. Altern
 **Ejemplo de mala rotación** (evitar): "Por lo tanto... por lo tanto... por lo tanto..."
 **Ejemplo de buena rotación**: "Por lo tanto... así pues... en consecuencia... por consiguiente..."
 
-### 10. Posición de Conectores
+### 13. Posición de Conectores
 Los conectores pueden colocarse parentéticamente para naturalidad:
 
 | ✗ Calco | ✓ Natural |
@@ -292,7 +504,7 @@ Los conectores pueden colocarse parentéticamente para naturalidad:
 | "Por lo tanto, quiso animar al rey" | "Quiso, por lo tanto, animar al rey" |
 | "Ahora, en el campo de batalla" | "Ahora bien, en el campo de batalla" |
 
-### 11. Preservar Ecos Léxicos del Sánscrito
+### 14. Preservar Ecos Léxicos del Sánscrito
 Cuando el original usa la misma raíz verbal repetida intencionalmente, preservar esa repetición en español:
 
 | Inglés (eco intencional) | ✗ Romper el eco | ✓ Preservar el eco |
@@ -303,7 +515,7 @@ Cuando el original usa la misma raíz verbal repetida intencionalmente, preserva
 
 **REGLA**: Si el sánscrito repite una raíz (*han/han*, *jña/jña*), la traducción debe reflejar esa repetición con el mismo verbo español.
 
-### 12. Evitar Redundancias del Inglés
+### 15. Evitar Redundancias del Inglés
 
 | ✗ Calque redundante | ✓ Limpio |
 |--------------------|---------|
@@ -318,7 +530,7 @@ Cuando el original usa la misma raíz verbal repetida intencionalmente, preserva
 |--------|---------------------|-----------------|
 | actually | actualmente | en realidad |
 | eventually | eventualmente | finalmente |
-| sensible | sensible | sensato |
+| sensible | sensible | sensato, razonable |
 | realize | realizar | darse cuenta / comprender |
 | pretend | pretender | fingir |
 | success | suceso | éxito |
@@ -328,6 +540,9 @@ Cuando el original usa la misma raíz verbal repetida intencionalmente, preserva
 | compromise (yielding) | compromiso | concesión |
 | unfortunately | desafortunadamente | por desgracia |
 | liberal (brāhmaṇa) | liberal | generoso |
+| assist | asistir | ayudar |
+| introduce | introducir | presentar |
+| resume | resumir | reanudar |
 
 ---
 
@@ -340,6 +555,8 @@ Cuando el original usa la misma raíz verbal repetida intencionalmente, preserva
 - Referencias: (Bg. 2.14), [SB 10.14.8]
 - Versos sánscritos en original — solo traducir la traducción inglesa
 - Devanagari cuando aparezca en el original
+- Diacríticos: ā, ī, ū, ṛ, ṣ, ś, ṇ, ṅ, ñ, ṁ, ḥ, ṭ, ḍ
+- Estructura de párrafos — no fusionar ni dividir
 
 ### Puntuación Española
 - Signos de exclamación siempre pareados: ¡...!
@@ -347,6 +564,8 @@ Cuando el original usa la misma raíz verbal repetida intencionalmente, preserva
 - Usar comillas angulares para citas directas: «texto citado»
 - Para citas anidadas: "cita dentro"
 - Vocativos con ¡Oh: `¡Oh Arjuna!`, `¡Oh hijo de Kuntī!`
+- Preservar comas extensivas (estilo clásico de Prabhupada) — no eliminar para "modernizar"
+- Punto y coma para cláusulas relacionadas: "El Señor es eterno; Su sirviente es eterno; Su morada también es eterna."
 
 ### Números
 - Separador de miles: punto (5.000)
@@ -356,6 +575,80 @@ Cuando el original usa la misma raíz verbal repetida intencionalmente, preserva
 ### Capitalización
 - "Védica/Védico" siempre con mayúscula: "sabiduría Védica", "literatura Védica"
 - Pronombres de Dios en mayúscula: Él, Su, Le
+- "el Señor" con mayúscula cuando se refiere a Kṛṣṇa/Dios
+
+### Abreviaturas de Escrituras
+| Abreviatura | Obra completa |
+|-------------|---------------|
+| Bg. | Bhagavad-gītā |
+| SB | Śrīmad-Bhāgavatam |
+| Cc. | Caitanya-caritāmṛta |
+| NOD | El néctar de la devoción |
+| NOI | El néctar de la instrucción |
+| TLC | Las enseñanzas del Señor Caitanya |
+
+### Acrónimos de Organizaciones
+| Inglés | Español | Notas |
+|--------|---------|-------|
+| ISKCON | ISKCON | NO traducir el acrónimo |
+| International Society for Krishna Consciousness | Sociedad Internacional para la Conciencia de Krishna | Traducir nombre completo |
+| BBT | BBT | Bhaktivedanta Book Trust |
+| GBC | GBC | Governing Body Commission |
+| temple president | presidente del templo | — |
+
+---
+
+## REFERENCIAS Y CITAS
+
+### Citas de Ācāryas Anteriores
+Mantener formato de atribución:
+
+> "As Śrīla Viśvanātha Cakravartī Ṭhākura comments..."
+> → "Como comenta Śrīla Viśvanātha Cakravartī Ṭhākura..."
+
+> "In the words of Śrīla Bhaktivinoda Ṭhākura..."
+> → "En palabras de Śrīla Bhaktivinoda Ṭhākura..."
+
+### Diálogos en Escrituras
+Mantener indicadores claros de quién habla:
+
+| Inglés | Español |
+|--------|---------|
+| Arjuna said | Arjuna dijo |
+| The Supreme Lord said | La Suprema Personalidad de Dios dijo |
+| Kṛṣṇa replied | Kṛṣṇa respondió |
+| Śukadeva Gosvāmī continued | Śukadeva Gosvāmī continuó |
+| The sages inquired | Los sabios preguntaron |
+
+### Referencias Temporales
+| Inglés | Español |
+|--------|---------|
+| 5,000 years ago | hace 5.000 años |
+| at the beginning of Kali-yuga | al comienzo del Kali-yuga |
+| in this age | en esta era |
+| in the modern age | en la era moderna |
+| in Vedic times | en los tiempos Védicos |
+
+### Medidas y Referencias Culturales Védicas
+No convertir medidas védicas — mantener el original:
+
+| Término | Mantener/Traducir | Notas |
+|---------|-------------------|-------|
+| yojana | mantener (yojana) | ~13 km, pero no convertir |
+| crore | mantener o "diez millones" | 10.000.000 |
+| lakh | mantener o "cien mil" | 100.000 |
+| anna | mantener (anna) | moneda antigua |
+| paisa | mantener (paisa) | moneda |
+
+### Términos Bengalíes/Hindi Mezclados
+Ocasionalmente aparecen en el texto. Mantener sin traducir:
+
+| Término | Idioma | Mantener |
+|---------|--------|----------|
+| bābā | hindi | bābā |
+| mahātmā | sánscrito/hindi | mahātmā |
+| jagat | bengalí | jagat (= mundo) |
+| prabhu | sánscrito | prabhu (= amo/señor) |
 
 ---
 
@@ -449,6 +742,14 @@ Cuando el original usa la misma raíz verbal repetida intencionalmente, preserva
 | ✗ Presente (calco) | ✓ Pretérito (narrativo) |
 |-------------------|----------------------|
 | "Tanto los Pāṇḍavas como los hijos de Dhṛtarāṣṭra pertenecen a la misma familia, pero la mentalidad de Dhṛtarāṣṭra se revela aquí." | "Tanto los Pāṇḍavas como los hijos de Dhṛtarāṣṭra pertenecían a la misma familia, pero aquí se revela la mente de Dhṛtarāṣṭra." |
+
+### Ejemplo 7: Estilo General (Voz de Prabhupada)
+
+**Original:**
+> So one has to learn how to tolerate. *Tāṁs titikṣasva bhārata.* The whole problem of material existence is based on sense gratification. Actually, the living entity has no problem in his original spiritual form. But as soon as he comes to the material world, he becomes conditioned by the modes of material nature.
+
+**Traducción:**
+> Así que uno tiene que aprender a tolerar. *Tāṁs titikṣasva bhārata.* Todo el problema de la existencia material se basa en la complacencia de los sentidos. En realidad, la entidad viviente no tiene ningún problema en su forma espiritual original. Pero tan pronto como viene al mundo material, queda condicionada por las modalidades de la naturaleza material.
 
 ---
 
